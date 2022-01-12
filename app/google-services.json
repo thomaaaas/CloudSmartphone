@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "886454895914",
+    "project_id": "dash-ff057",
+    "storage_bucket": "dash-ff057.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886454895914:android:854116a7f072f305bd0a53",
+        "android_client_info": {
+          "package_name": "com.thomas.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886454895914-gnmneku71afjj5fio091ue7c953ohh8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsEquWEkISye1IF1PS71nl5R5EbmV_jmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886454895914-gnmneku71afjj5fio091ue7c953ohh8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
